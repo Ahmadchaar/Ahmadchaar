@@ -56,7 +56,7 @@
 </p>
 
 -----
-Credits: [Ahmad Chaar Singh](https://github.com/Ahmadchaar)
+Credits: [Ahmad Chaar](https://github.com/Ahmadchaar)
 
 Last Edited on: 30/11/2023
 
