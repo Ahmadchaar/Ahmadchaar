@@ -56,7 +56,7 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Ahmad Chaar Singh](https://github.com/Ahmadchaar)
 
-Last Edited on: 11/12/2020
+Last Edited on: 30/11/2023
 
