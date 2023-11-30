@@ -51,8 +51,8 @@
 <a href="mailto:ahmadchaar.777@gmail.com"><img src=""/></a>
 <a href="https://instagram.com/_"><img src=""/></a>
 <a href="https://facebook.com/"><img src=""/></a>
-<a href="https://www.pinterest.ca/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/"><img src=""/></a>
+<a href="https://www.behance.net/"><img src=""/></a>
 </p>
 
 -----
