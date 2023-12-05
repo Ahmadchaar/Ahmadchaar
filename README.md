@@ -50,7 +50,7 @@
 
 <a href="mailto:ahmadchaar.777@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png"/></a>
 <a href="https://instagram.com/_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"/></a>
-<a href="https://facebook.com/"><img style="max-width:5 %" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png"/></a>
+<a href="https://facebook.com/"><img style="max-width:5 %" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-64.png"/></a>
 <a href="www.linkedin.com/in/ahmad-chaar-341209249"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"/></a>
 
 </p>
