@@ -36,7 +36,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="center" style="max-width:5 %">
 <a href="https://github.com/Ahmadchaar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadchaar&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadchaar&layout=compact&langs_count=8&theme=algolia"/>
